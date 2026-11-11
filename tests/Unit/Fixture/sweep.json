@@ -1,0 +1,282 @@
+[
+ {
+  "data": "Sweep 1 ✓",
+  "level": "M",
+  "version": 1,
+  "mask": 1,
+  "sha": "a35f6750cc1d49d9d5202e459c794a7cc5848b9783b940827ae1262d370dbb2c"
+ },
+ {
+  "data": "Sweep 2 ✓",
+  "level": "Q",
+  "version": 2,
+  "mask": 2,
+  "sha": "7597148e47bddcd6b2eb8349f3491813f9f006934729fb9e2adaf5189889e98f"
+ },
+ {
+  "data": "Sweep 3 ✓",
+  "level": "H",
+  "version": 3,
+  "mask": 3,
+  "sha": "ddb1b990242ba1849cf2e69eaebd3ab9d3f87901099b97127be6c866d4bb67d4"
+ },
+ {
+  "data": "Sweep 4 ✓",
+  "level": "L",
+  "version": 4,
+  "mask": 4,
+  "sha": "cb0712e6f8bb993514fd6d1c5750739cd3cff3a310ae64c1e94a5d3d5c45f4b6"
+ },
+ {
+  "data": "Sweep 5 ✓",
+  "level": "M",
+  "version": 5,
+  "mask": 5,
+  "sha": "85ec0ba7674420042a6d37cab7d3157f3e5d138264925c78eaa42e0d4ad7ff9f"
+ },
+ {
+  "data": "Sweep 6 ✓",
+  "level": "Q",
+  "version": 6,
+  "mask": 6,
+  "sha": "cf6668d81b388dba06dc8cd3924bd7b6b9a09b97a35b9db7d35f665ff97b7941"
+ },
+ {
+  "data": "Sweep 7 ✓",
+  "level": "H",
+  "version": 7,
+  "mask": 7,
+  "sha": "4884e75113095c2e6f9ee8e41e41d7b9f1ef9ce65654e8314163cef26b138a70"
+ },
+ {
+  "data": "Sweep 8 ✓",
+  "level": "L",
+  "version": 8,
+  "mask": 0,
+  "sha": "bcd3262b5e5bdc2d4e49fd079762b813e2d375aefa96fb2bda63971e4a459b6c"
+ },
+ {
+  "data": "Sweep 9 ✓",
+  "level": "M",
+  "version": 9,
+  "mask": 1,
+  "sha": "278dac24ee98f143e1d0d17aa489740bf3044ab9232ed0452bf553208e0b9a2e"
+ },
+ {
+  "data": "Sweep 10 ✓",
+  "level": "Q",
+  "version": 10,
+  "mask": 2,
+  "sha": "f13753a18b5b8046cd0b655477961a122343857dafb81b8aea8e9556bbbae0fc"
+ },
+ {
+  "data": "Sweep 11 ✓",
+  "level": "H",
+  "version": 11,
+  "mask": 3,
+  "sha": "62f2f567653d9e8617250328a2b3fed31e455a9ba3dd8d8623ecf9acfe023ccb"
+ },
+ {
+  "data": "Sweep 12 ✓",
+  "level": "L",
+  "version": 12,
+  "mask": 4,
+  "sha": "dddd4d635b228738f4eefbf54a80709b5ce8025ead5ae24cc851d1cee4979424"
+ },
+ {
+  "data": "Sweep 13 ✓",
+  "level": "M",
+  "version": 13,
+  "mask": 5,
+  "sha": "3438fda3d120043fa38ef0aa62f4c1eaead20a61c4edf2244e7d20362fec2c30"
+ },
+ {
+  "data": "Sweep 14 ✓",
+  "level": "Q",
+  "version": 14,
+  "mask": 6,
+  "sha": "1bb254329053861783b69a8d4b5b50b897fa7c04050b5ba53ec94ce1543eb221"
+ },
+ {
+  "data": "Sweep 15 ✓",
+  "level": "H",
+  "version": 15,
+  "mask": 7,
+  "sha": "2fb3e40ce77f7f4ca1fd081e0d15ecdcf9416d2c0aec47444d8428022953a1bf"
+ },
+ {
+  "data": "Sweep 16 ✓",
+  "level": "L",
+  "version": 16,
+  "mask": 0,
+  "sha": "fc7907496177604eb79879adc3f8bfedf010c7f35e2d64c152e11ebd781ebcdd"
+ },
+ {
+  "data": "Sweep 17 ✓",
+  "level": "M",
+  "version": 17,
+  "mask": 1,
+  "sha": "faec5e31fa7f068a3658ace5d06a857e92350042ff39806d199ff30c81f1199e"
+ },
+ {
+  "data": "Sweep 18 ✓",
+  "level": "Q",
+  "version": 18,
+  "mask": 2,
+  "sha": "297923b48329e2ff6c2f05af8d2254ebfc5c897eb6e5158da0bdcbb75249be05"
+ },
+ {
+  "data": "Sweep 19 ✓",
+  "level": "H",
+  "version": 19,
+  "mask": 3,
+  "sha": "ab257811fd3e6807378245c3edf02e35117c3851c29dc29e9bbf0e2fe5067fdc"
+ },
+ {
+  "data": "Sweep 20 ✓",
+  "level": "L",
+  "version": 20,
+  "mask": 4,
+  "sha": "57219664229becaf6fdd4f564ad8d14450df71928ea538ce6a1fc9da1ee65c5c"
+ },
+ {
+  "data": "Sweep 21 ✓",
+  "level": "M",
+  "version": 21,
+  "mask": 5,
+  "sha": "ceffb5c88ff754d294b6005faa7ddd1f79a338c0d8852a54c031738d0566ae9d"
+ },
+ {
+  "data": "Sweep 22 ✓",
+  "level": "Q",
+  "version": 22,
+  "mask": 6,
+  "sha": "acee61224680f92b41127809dfa4bc622211b6b7c40606d799f2d5ef66ca4163"
+ },
+ {
+  "data": "Sweep 23 ✓",
+  "level": "H",
+  "version": 23,
+  "mask": 7,
+  "sha": "5fa5f7c0d47ebafa183a9e324fe2b8ac6522ab8217fabd37b81d8ffbed81c6be"
+ },
+ {
+  "data": "Sweep 24 ✓",
+  "level": "L",
+  "version": 24,
+  "mask": 0,
+  "sha": "37bde927d8af3be24a13d16a2d48f83d4adc293ff155a46c9fb1b881b41a1cc0"
+ },
+ {
+  "data": "Sweep 25 ✓",
+  "level": "M",
+  "version": 25,
+  "mask": 1,
+  "sha": "b7c18e9623c18730dbb63359004976eec79416b725aed15a28f7543231a966f4"
+ },
+ {
+  "data": "Sweep 26 ✓",
+  "level": "Q",
+  "version": 26,
+  "mask": 2,
+  "sha": "ab1fb95f2ccfee89fbb3cf6f103ee1a0dc64fa6de74bd5c1a3eab0250a4b4919"
+ },
+ {
+  "data": "Sweep 27 ✓",
+  "level": "H",
+  "version": 27,
+  "mask": 3,
+  "sha": "fb4f80aaa124a3b965903febd9588aa957274ca2120af7be48bf0cf79a76541b"
+ },
+ {
+  "data": "Sweep 28 ✓",
+  "level": "L",
+  "version": 28,
+  "mask": 4,
+  "sha": "38f4c0ace3273023743339fb721e8d675da066ec91a3ad84c6c38b76d6b35abd"
+ },
+ {
+  "data": "Sweep 29 ✓",
+  "level": "M",
+  "version": 29,
+  "mask": 5,
+  "sha": "e4e0516258070b4f490f8de8a55b945ba91746d9766afbf65b40277149e9e258"
+ },
+ {
+  "data": "Sweep 30 ✓",
+  "level": "Q",
+  "version": 30,
+  "mask": 6,
+  "sha": "610f5d7f0b4d76261393b6349a951c0f4a9609f4ff14edd433e7efd5b3852605"
+ },
+ {
+  "data": "Sweep 31 ✓",
+  "level": "H",
+  "version": 31,
+  "mask": 7,
+  "sha": "a3c5fd467e2951d9dbd466b34706e62a8ca03a85cbdef7420b1ec24b70e9c608"
+ },
+ {
+  "data": "Sweep 32 ✓",
+  "level": "L",
+  "version": 32,
+  "mask": 0,
+  "sha": "c6ed63e030b4aa982d3fe47da0de389695dbd6e501969a6ac4bbae7e4e760796"
+ },
+ {
+  "data": "Sweep 33 ✓",
+  "level": "M",
+  "version": 33,
+  "mask": 1,
+  "sha": "33e37bd0b6f496898c0197d6471950c78345b90c10a31744fff7ae91dbd7124b"
+ },
+ {
+  "data": "Sweep 34 ✓",
+  "level": "Q",
+  "version": 34,
+  "mask": 2,
+  "sha": "2642f6103052706f12f08d522d535ab7e61d6a27eecc6949148a715311adb901"
+ },
+ {
+  "data": "Sweep 35 ✓",
+  "level": "H",
+  "version": 35,
+  "mask": 3,
+  "sha": "fd69df75df0168b3147ab94297d60034abee2c484a87edcb4f92685a32372d25"
+ },
+ {
+  "data": "Sweep 36 ✓",
+  "level": "L",
+  "version": 36,
+  "mask": 4,
+  "sha": "a841cdabc48e52287c85c7586c42e61943ebfabeff82e1f679ec0eb552125b5b"
+ },
+ {
+  "data": "Sweep 37 ✓",
+  "level": "M",
+  "version": 37,
+  "mask": 5,
+  "sha": "80882985c96d1af673d605c95d60383ec2ccc6a004c1e05053616f3fbd0358b1"
+ },
+ {
+  "data": "Sweep 38 ✓",
+  "level": "Q",
+  "version": 38,
+  "mask": 6,
+  "sha": "d7b2a0b8a60501c650885122de95ca4a77d79c15ebca2384c2ae512995ab2ad0"
+ },
+ {
+  "data": "Sweep 39 ✓",
+  "level": "H",
+  "version": 39,
+  "mask": 7,
+  "sha": "ff3aa0fffefa9228703c47c2b97139ffda824d31d8d81bc6d07329212a97f9c5"
+ },
+ {
+  "data": "Sweep 40 ✓",
+  "level": "L",
+  "version": 40,
+  "mask": 0,
+  "sha": "d6e0ba631ca118947e6255b76b7503cccaf7c3a6d52436f736a75adaa8f7dcaa"
+ }
+]

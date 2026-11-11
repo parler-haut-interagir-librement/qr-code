@@ -1,0 +1,57 @@
+{
+    "name": "phil/qr-code",
+    "description": "QR codes written from scratch in PHP: the shortest mix of numeric, alphanumeric, byte and kanji segments, the ECI header of UTF-8, the smallest of the 40 versions, Reed-Solomon codes, the mask of the lowest penalty, a zone for a logo, typed contents, and SVG or PNG images",
+    "license": "MIT",
+    "type": "library",
+    "keywords": [
+        "qr-code",
+        "qrcode",
+        "svg",
+        "png",
+        "barcode",
+        "vcard",
+        "wifi"
+    ],
+    "authors": [
+        {
+            "name": "Philippe Gamache",
+            "email": "philippe@ph-il.ca",
+            "homepage": "https://github.com/ph-il",
+            "role": "Developer"
+        }
+    ],
+    "homepage": "https://ph-il.ca",
+    "require": {
+        "php": ">=8.5",
+        "ext-ctype": "*",
+        "ext-filter": "*",
+        "ext-mbstring": "*",
+        "ext-sodium": "*",
+        "ext-zlib": "*"
+    },
+    "require-dev": {
+        "ext-gd": "*",
+        "phpunit/phpunit": "^13.4",
+        "roave/security-advisories": "dev-latest"
+    },
+    "suggest": {
+        "ext-gd": "For PngWriter to draw a PNG, JPEG or WebP logo over a code"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Phil\\QrCode\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Phil\\QrCode\\Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "0.1.x-dev"
+        }
+    }
+}
