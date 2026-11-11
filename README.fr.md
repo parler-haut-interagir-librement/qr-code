@@ -1,4 +1,4 @@
-<!-- phil-dev source-sha256=e22547a9f1345dbf8f962e7cac3bad9b771f59a2ddf122cec2e9110c230d268e -->
+<!-- phil-dev source-sha256=4283faf73e3d071fbee8c9c1849563e5ee7ac1d9f63e11d57fca2fd8a8472e72 -->
 # phil/qr-code
 
 **Des codes QR dessinés en SVG ou en PNG par PHP seul, sans service et sans bibliothèque d'images.**
@@ -16,7 +16,7 @@ Il s'adresse à tout code PHP qui imprime ou affiche un code QR : un billet, un 
 bloc de page, un document imprimé. Rien n'est envoyé nulle part : le texte d'un code peut être privé, et il ne quitte
 jamais le serveur.
 
-C'est une simple bibliothèque PHP, écrite de zéro, sur `ext-mbstring`, `ext-sodium` et `ext-zlib` ; `ext-gd` ne sert
+C'est une simple bibliothèque PHP sur `ext-mbstring`, `ext-sodium` et `ext-zlib` ; `ext-gd` ne sert
 qu'à dessiner un logo sur un PNG. Sa sortie est déterministe : le même texte et les mêmes options donnent les mêmes
 octets.
 

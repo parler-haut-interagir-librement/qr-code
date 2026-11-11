@@ -13,7 +13,7 @@ formats require.
 It is for any PHP code that prints or shows a QR code: a ticket, a receipt, a gift card, a poster, a page block, a
 printed document. Nothing is sent anywhere: the text of a code may be private, and it never leaves the server.
 
-It is a plain PHP library, written from scratch, over `ext-mbstring`, `ext-sodium` and `ext-zlib`; `ext-gd` only draws
+It is a plain PHP library built on `ext-mbstring`, `ext-sodium` and `ext-zlib`; `ext-gd` only draws
 a logo over a PNG. Its output is deterministic: the same text and options give the same bytes.
 
 ## Status

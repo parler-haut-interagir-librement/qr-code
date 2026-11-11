@@ -1,6 +1,6 @@
 {
     "name": "phil/qr-code",
-    "description": "QR codes written from scratch in PHP: the shortest mix of numeric, alphanumeric, byte and kanji segments, the ECI header of UTF-8, the smallest of the 40 versions, Reed-Solomon codes, the mask of the lowest penalty, a zone for a logo, typed contents, and SVG or PNG images",
+    "description": "QR codes in PHP: the shortest mix of numeric, alphanumeric, byte and kanji segments, the ECI header of UTF-8, the smallest of the 40 versions, Reed-Solomon codes, the mask of the lowest penalty, a zone for a logo, typed contents, and SVG or PNG images",
     "license": "MIT",
     "type": "library",
     "keywords": [
